@@ -1,0 +1,13 @@
+/Users/pratikkarki/Visual Studio/AttentionSeeker/AttentionSeeker/bin/Debug/netstandard2.0/AttentionSeeker.deps.json
+/Users/pratikkarki/Visual Studio/AttentionSeeker/AttentionSeeker/bin/Debug/netstandard2.0/AttentionSeeker.dll
+/Users/pratikkarki/Visual Studio/AttentionSeeker/AttentionSeeker/bin/Debug/netstandard2.0/AttentionSeeker.pdb
+/Users/pratikkarki/Visual Studio/AttentionSeeker/AttentionSeeker/obj/Debug/netstandard2.0/AttentionSeeker.csprojAssemblyReference.cache
+/Users/pratikkarki/Visual Studio/AttentionSeeker/AttentionSeeker/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/pratikkarki/Visual Studio/AttentionSeeker/AttentionSeeker/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/pratikkarki/Visual Studio/AttentionSeeker/AttentionSeeker/obj/Debug/netstandard2.0/AttentionSeeker.csproj.CoreCompileInputs.cache
+/Users/pratikkarki/Visual Studio/AttentionSeeker/AttentionSeeker/obj/Debug/netstandard2.0/AttentionSeeker.AssemblyInfoInputs.cache
+/Users/pratikkarki/Visual Studio/AttentionSeeker/AttentionSeeker/obj/Debug/netstandard2.0/AttentionSeeker.AssemblyInfo.cs
+/Users/pratikkarki/Visual Studio/AttentionSeeker/AttentionSeeker/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/pratikkarki/Visual Studio/AttentionSeeker/AttentionSeeker/obj/Debug/netstandard2.0/AttentionSeeker.dll
+/Users/pratikkarki/Visual Studio/AttentionSeeker/AttentionSeeker/obj/Debug/netstandard2.0/AttentionSeeker.pdb
+/Users/pratikkarki/Visual Studio/AttentionSeeker/AttentionSeeker/obj/Debug/netstandard2.0/GreetPage.xaml.g.cs
